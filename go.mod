@@ -15,7 +15,7 @@ require (
 	github.com/prometheus/procfs v0.7.1 // indirect
 	github.com/rogpeppe/go-internal v1.8.0 // indirect
 	github.com/strongswan/govici v0.5.1
-	golang.org/x/crypto v0.1.0 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20210628180205-a41e5a781914 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
